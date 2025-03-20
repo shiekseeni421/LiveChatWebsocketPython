@@ -1,0 +1,399 @@
+2025-03-20 15:00:44,483 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-03-20 15:00:44,517 - INFO -  * Restarting with stat
+2025-03-20 15:00:44,721 - INFO - Flask SocketIO server starting...
+2025-03-20 15:00:44,721 - WARNING -  * Debugger is active!
+2025-03-20 15:00:44,721 - INFO -  * Debugger PIN: 474-035-000
+2025-03-20 15:00:45,898 - INFO - 127.0.0.1 - - [20/Mar/2025 15:00:45] "GET /socket.io/?EIO=4&transport=polling&t=5iaqf6a5 HTTP/1.1" 200 -
+2025-03-20 15:00:46,159 - INFO - 127.0.0.1 - - [20/Mar/2025 15:00:46] "POST /socket.io/?EIO=4&transport=polling&t=5iaz95qi&sid=-TqYew2ylnJCkL_1AAAA HTTP/1.1" 200 -
+2025-03-20 15:00:46,222 - INFO - 127.0.0.1 - - [20/Mar/2025 15:00:46] "GET /socket.io/?EIO=4&transport=polling&t=5iazbtbr&sid=-TqYew2ylnJCkL_1AAAA HTTP/1.1" 200 -
+2025-03-20 15:00:46,222 - INFO - 127.0.0.1 - - [20/Mar/2025 15:00:46] "GET /socket.io/?EIO=4&transport=polling&t=5ib82o3f&sid=-TqYew2ylnJCkL_1AAAA HTTP/1.1" 200 -
+2025-03-20 15:00:46,901 - INFO - 127.0.0.1 - - [20/Mar/2025 15:00:46] "GET /socket.io/?EIO=4&transport=polling&t=5ibi7mk3 HTTP/1.1" 200 -
+2025-03-20 15:00:47,162 - INFO - 127.0.0.1 - - [20/Mar/2025 15:00:47] "POST /socket.io/?EIO=4&transport=polling&t=5ibr32lb&sid=ZiRN3nJVIDGhzaNFAAAC HTTP/1.1" 200 -
+2025-03-20 15:00:47,223 - INFO - 127.0.0.1 - - [20/Mar/2025 15:00:47] "GET /socket.io/?EIO=4&transport=polling&t=5ibr5834&sid=ZiRN3nJVIDGhzaNFAAAC HTTP/1.1" 200 -
+2025-03-20 15:00:47,233 - INFO - 127.0.0.1 - - [20/Mar/2025 15:00:47] "GET /socket.io/?EIO=4&transport=polling&t=5ic01gao&sid=ZiRN3nJVIDGhzaNFAAAC HTTP/1.1" 200 -
+2025-03-20 15:01:20,643 - INFO - Flask SocketIO server starting...
+2025-03-20 15:01:20,652 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.244.2.132:5001
+2025-03-20 15:01:20,652 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-20 15:01:20,652 - INFO -  * Restarting with stat
+2025-03-20 15:01:20,836 - INFO - Flask SocketIO server starting...
+2025-03-20 15:01:20,836 - WARNING -  * Debugger is active!
+2025-03-20 15:01:20,836 - INFO -  * Debugger PIN: 474-035-000
+2025-03-20 15:01:22,907 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:22] "GET /socket.io/?EIO=4&transport=polling&t=5j3acdyn HTTP/1.1" 200 -
+2025-03-20 15:01:23,163 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:23] "POST /socket.io/?EIO=4&transport=polling&t=5j3j84kh&sid=f3J98Nn3saBhFSc9AAAA HTTP/1.1" 200 -
+2025-03-20 15:01:23,223 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:23] "GET /socket.io/?EIO=4&transport=polling&t=5j3jj1vk&sid=f3J98Nn3saBhFSc9AAAA HTTP/1.1" 200 -
+2025-03-20 15:01:23,230 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:23] "GET /socket.io/?EIO=4&transport=polling&t=5j3s0k8l&sid=f3J98Nn3saBhFSc9AAAA HTTP/1.1" 200 -
+2025-03-20 15:01:23,598 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:23] "GET /socket.io/?EIO=4&transport=polling&t=5j42798n HTTP/1.1" 200 -
+2025-03-20 15:01:23,925 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:23] "POST /socket.io/?EIO=4&transport=polling&t=5j42hhfv&sid=ACwrpzPPC0YzzJndAAAC HTTP/1.1" 200 -
+2025-03-20 15:01:23,925 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:23] "GET /socket.io/?EIO=4&transport=polling&t=5j42kd3t&sid=ACwrpzPPC0YzzJndAAAC HTTP/1.1" 200 -
+2025-03-20 15:01:37,176 - INFO - Client ZyUjQtU9euEHar8gAAAB disconnected
+2025-03-20 15:01:37,176 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:37] "GET /socket.io/?EIO=4&transport=websocket&sid=f3J98Nn3saBhFSc9AAAA HTTP/1.1" 200 -
+2025-03-20 15:01:37,206 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:37] "GET /socket.io/?EIO=4&transport=polling&t=5jek4rqh HTTP/1.1" 200 -
+2025-03-20 15:01:37,509 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:37] "POST /socket.io/?EIO=4&transport=polling&t=5jek82xk&sid=F0xm4FsOdKTTGcH6AAAE HTTP/1.1" 200 -
+2025-03-20 15:01:37,509 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:37] "GET /socket.io/?EIO=4&transport=polling&t=5jek90n2&sid=F0xm4FsOdKTTGcH6AAAE HTTP/1.1" 200 -
+2025-03-20 15:01:39,372 - INFO - Client yvX_PvXgHpZGH0l2AAAD disconnected
+2025-03-20 15:01:39,372 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:39] "GET /socket.io/?EIO=4&transport=websocket&sid=ACwrpzPPC0YzzJndAAAC HTTP/1.1" 200 -
+2025-03-20 15:01:39,415 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:39] "GET /socket.io/?EIO=4&transport=polling&t=5jg9imo5 HTTP/1.1" 200 -
+2025-03-20 15:01:39,741 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:39] "POST /socket.io/?EIO=4&transport=polling&t=5jg9side&sid=Uih2rugKmYihwkp9AAAG HTTP/1.1" 200 -
+2025-03-20 15:01:39,741 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:39] "GET /socket.io/?EIO=4&transport=polling&t=5jg9spuu&sid=Uih2rugKmYihwkp9AAAG HTTP/1.1" 200 -
+2025-03-20 15:01:39,992 - INFO - 127.0.0.1 - - [20/Mar/2025 15:01:39] "GET /socket.io/?EIO=4&transport=polling&t=5jgiydyj&sid=Uih2rugKmYihwkp9AAAG HTTP/1.1" 200 -
+2025-03-20 15:01:44,505 - INFO - Agent registered: saVxg8-dFmYLpCVAAAAF
+2025-03-20 15:01:46,571 - INFO - User JeboeKsTkeTyb2iDAAAH connected with Agent saVxg8-dFmYLpCVAAAAF
+2025-03-20 15:01:49,476 - INFO - JeboeKsTkeTyb2iDAAAH sent message to saVxg8-dFmYLpCVAAAAF: hi
+2025-03-20 15:01:53,836 - INFO - saVxg8-dFmYLpCVAAAAF sent message to JeboeKsTkeTyb2iDAAAH: hi
+2025-03-20 15:08:07,218 - INFO - Flask SocketIO server starting...
+2025-03-20 15:08:07,234 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.244.2.132:5001
+2025-03-20 15:08:07,234 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-20 15:08:07,234 - INFO -  * Restarting with stat
+2025-03-20 15:08:07,420 - INFO - Flask SocketIO server starting...
+2025-03-20 15:08:07,420 - WARNING -  * Debugger is active!
+2025-03-20 15:08:07,420 - INFO -  * Debugger PIN: 474-035-000
+2025-03-20 15:08:10,723 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:10] "GET /socket.io/?EIO=4&transport=polling&t=5rtyobg4 HTTP/1.1" 200 -
+2025-03-20 15:08:10,723 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:10] "GET /socket.io/?EIO=4&transport=polling&t=5rtyx4qz HTTP/1.1" 200 -
+2025-03-20 15:08:10,914 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:10] "GET /socket.io/?EIO=4&transport=polling&t=5ru3ntk0 HTTP/1.1" 200 -
+2025-03-20 15:08:10,978 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:10] "POST /socket.io/?EIO=4&transport=polling&t=5ru7h9hv&sid=u3-6EaqvH7huLVfrAAAA HTTP/1.1" 200 -
+2025-03-20 15:08:11,045 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:11] "GET /socket.io/?EIO=4&transport=polling&t=5ru7iodf&sid=u3-6EaqvH7huLVfrAAAA HTTP/1.1" 200 -
+2025-03-20 15:08:11,045 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:11] "POST /socket.io/?EIO=4&transport=polling&t=5ru7mloq&sid=3nKtNnAPpUZJA9XaAAAB HTTP/1.1" 200 -
+2025-03-20 15:08:11,045 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:11] "GET /socket.io/?EIO=4&transport=polling&t=5ru7m371&sid=3nKtNnAPpUZJA9XaAAAB HTTP/1.1" 200 -
+2025-03-20 15:08:11,045 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:11] "POST /socket.io/?EIO=4&transport=polling&t=5rucoeg1&sid=0Ir3eEU9h9_5gmmHAAAC HTTP/1.1" 200 -
+2025-03-20 15:08:11,231 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:11] "GET /socket.io/?EIO=4&transport=polling&t=5rucspgc&sid=0Ir3eEU9h9_5gmmHAAAC HTTP/1.1" 200 -
+2025-03-20 15:08:11,358 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:11] "GET /socket.io/?EIO=4&transport=polling&t=5rugfo6x&sid=3nKtNnAPpUZJA9XaAAAB HTTP/1.1" 200 -
+2025-03-20 15:08:11,549 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:11] "GET /socket.io/?EIO=4&transport=polling&t=5rullgcz&sid=0Ir3eEU9h9_5gmmHAAAC HTTP/1.1" 200 -
+2025-03-20 15:08:11,980 - INFO - Client X0Bvnuab3miMJJRdAAAD disconnected
+2025-03-20 15:08:11,980 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:11] "GET /socket.io/?EIO=4&transport=websocket&sid=u3-6EaqvH7huLVfrAAAA HTTP/1.1" 200 -
+2025-03-20 15:08:11,980 - INFO - Client TtrLnNB2nmRAruT2AAAE disconnected
+2025-03-20 15:08:11,980 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:11] "GET /socket.io/?EIO=4&transport=websocket&sid=3nKtNnAPpUZJA9XaAAAB HTTP/1.1" 200 -
+2025-03-20 15:08:12,340 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:12] "GET /socket.io/?EIO=4&transport=polling&t=5rv7jo4m HTTP/1.1" 200 -
+2025-03-20 15:08:12,597 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:12] "POST /socket.io/?EIO=4&transport=polling&t=5rvgea39&sid=i2c4fv0-AXhsJ5k_AAAG HTTP/1.1" 200 -
+2025-03-20 15:08:12,659 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:12] "GET /socket.io/?EIO=4&transport=polling&t=5rvgfwr9&sid=i2c4fv0-AXhsJ5k_AAAG HTTP/1.1" 200 -
+2025-03-20 15:08:12,659 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:12] "GET /socket.io/?EIO=4&transport=polling&t=5rvp6j4e&sid=i2c4fv0-AXhsJ5k_AAAG HTTP/1.1" 200 -
+2025-03-20 15:08:13,143 - INFO - Client y3KQ2L2IjlmLmALXAAAH disconnected
+2025-03-20 15:08:13,143 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:13] "GET /socket.io/?EIO=4&transport=websocket&sid=i2c4fv0-AXhsJ5k_AAAG HTTP/1.1" 200 -
+2025-03-20 15:08:13,476 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:13] "GET /socket.io/?EIO=4&transport=polling&t=5rw3coq9 HTTP/1.1" 200 -
+2025-03-20 15:08:13,729 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:13] "POST /socket.io/?EIO=4&transport=polling&t=5rwbx94q&sid=Pji8GV1Bi9tf5RURAAAI HTTP/1.1" 200 -
+2025-03-20 15:08:13,793 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:13] "GET /socket.io/?EIO=4&transport=polling&t=5rwbyom6&sid=Pji8GV1Bi9tf5RURAAAI HTTP/1.1" 200 -
+2025-03-20 15:08:13,793 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:13] "GET /socket.io/?EIO=4&transport=polling&t=5rwkojkm&sid=Pji8GV1Bi9tf5RURAAAI HTTP/1.1" 200 -
+2025-03-20 15:08:16,598 - INFO - Client 2tJd394snE7XzE3mAAAF disconnected
+2025-03-20 15:08:16,598 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:16] "GET /socket.io/?EIO=4&transport=websocket&sid=0Ir3eEU9h9_5gmmHAAAC HTTP/1.1" 200 -
+2025-03-20 15:08:16,941 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:16] "GET /socket.io/?EIO=4&transport=polling&t=5ryrgimv HTTP/1.1" 200 -
+2025-03-20 15:08:17,208 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:17] "POST /socket.io/?EIO=4&transport=polling&t=5rz00f19&sid=aYymkcKb0y9060iiAAAK HTTP/1.1" 200 -
+2025-03-20 15:08:17,253 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:17] "GET /socket.io/?EIO=4&transport=polling&t=5rz01o55&sid=aYymkcKb0y9060iiAAAK HTTP/1.1" 200 -
+2025-03-20 15:08:17,253 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:17] "GET /socket.io/?EIO=4&transport=polling&t=5rz8s93r&sid=aYymkcKb0y9060iiAAAK HTTP/1.1" 200 -
+2025-03-20 15:08:27,439 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:27] "GET /socket.io/?EIO=4&transport=polling&t=5s6uwjvm HTTP/1.1" 200 -
+2025-03-20 15:08:27,706 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:27] "POST /socket.io/?EIO=4&transport=polling&t=5s73mapg&sid=hFkjLqCuVbWUeYAkAAAM HTTP/1.1" 200 -
+2025-03-20 15:08:27,755 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:27] "GET /socket.io/?EIO=4&transport=polling&t=5s73m50m&sid=hFkjLqCuVbWUeYAkAAAM HTTP/1.1" 200 -
+2025-03-20 15:08:31,975 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:31] "GET /socket.io/?EIO=4&transport=polling&t=5salkrwe HTTP/1.1" 200 -
+2025-03-20 15:08:32,293 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:32] "POST /socket.io/?EIO=4&transport=polling&t=5salpdai&sid=1zZcor4ymddHM6PBAAAO HTTP/1.1" 200 -
+2025-03-20 15:08:32,293 - INFO - 127.0.0.1 - - [20/Mar/2025 15:08:32] "GET /socket.io/?EIO=4&transport=polling&t=5salqy9q&sid=1zZcor4ymddHM6PBAAAO HTTP/1.1" 200 -
+2025-03-20 15:08:37,371 - INFO - Agent registered: tfi9JKfi7_7hnh4pAAAN
+2025-03-20 15:08:39,741 - INFO - User nZFS1Vfx9wAO2EnQAAAP connected with Agent tfi9JKfi7_7hnh4pAAAN
+2025-03-20 15:08:42,961 - INFO - nZFS1Vfx9wAO2EnQAAAP sent message to tfi9JKfi7_7hnh4pAAAN: hi
+2025-03-20 15:11:08,854 - INFO - 127.0.0.1 - - [20/Mar/2025 15:11:08] "GET /socket.io/?EIO=4&transport=polling&t=5vnet3uf HTTP/1.1" 200 -
+2025-03-20 15:11:09,121 - INFO - 127.0.0.1 - - [20/Mar/2025 15:11:09] "POST /socket.io/?EIO=4&transport=polling&t=5vnngmak&sid=QTRoeRZxSOtdoapEAAAQ HTTP/1.1" 200 -
+2025-03-20 15:11:09,165 - INFO - 127.0.0.1 - - [20/Mar/2025 15:11:09] "GET /socket.io/?EIO=4&transport=polling&t=5vnnis3l&sid=QTRoeRZxSOtdoapEAAAQ HTTP/1.1" 200 -
+2025-03-20 15:11:09,169 - INFO - 127.0.0.1 - - [20/Mar/2025 15:11:09] "GET /socket.io/?EIO=4&transport=polling&t=5vnw03h3&sid=QTRoeRZxSOtdoapEAAAQ HTTP/1.1" 200 -
+2025-03-20 15:11:15,506 - INFO - Client JfBEE6MtEusW9zlJAAAL disconnected
+2025-03-20 15:11:15,506 - INFO - 127.0.0.1 - - [20/Mar/2025 15:11:15] "GET /socket.io/?EIO=4&transport=websocket&sid=aYymkcKb0y9060iiAAAK HTTP/1.1" 200 -
+2025-03-20 15:11:15,506 - INFO - Client nZFS1Vfx9wAO2EnQAAAP disconnected
+2025-03-20 15:11:15,506 - INFO - 127.0.0.1 - - [20/Mar/2025 15:11:15] "GET /socket.io/?EIO=4&transport=websocket&sid=1zZcor4ymddHM6PBAAAO HTTP/1.1" 200 -
+2025-03-20 15:11:15,873 - INFO - 127.0.0.1 - - [20/Mar/2025 15:11:15] "GET /socket.io/?EIO=4&transport=polling&t=5vstmvce HTTP/1.1" 200 -
+2025-03-20 15:11:16,134 - INFO - 127.0.0.1 - - [20/Mar/2025 15:11:16] "POST /socket.io/?EIO=4&transport=polling&t=5vt2dhlq&sid=abjZw7Fzptn2jM5aAAAS HTTP/1.1" 200 -
+2025-03-20 15:11:16,181 - INFO - 127.0.0.1 - - [20/Mar/2025 15:11:16] "GET /socket.io/?EIO=4&transport=polling&t=5vt2e22t&sid=abjZw7Fzptn2jM5aAAAS HTTP/1.1" 200 -
+2025-03-20 15:11:16,181 - INFO - 127.0.0.1 - - [20/Mar/2025 15:11:16] "GET /socket.io/?EIO=4&transport=polling&t=5vtaxd9h&sid=abjZw7Fzptn2jM5aAAAS HTTP/1.1" 200 -
+2025-03-20 15:13:20,520 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:20] "GET /socket.io/?EIO=4&transport=polling&t=5yh080lg HTTP/1.1" 200 -
+2025-03-20 15:13:20,787 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:20] "POST /socket.io/?EIO=4&transport=polling&t=5yh8vnpt&sid=E4NudcS8c8Pl2GIdAAAU HTTP/1.1" 200 -
+2025-03-20 15:13:20,838 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:20] "GET /socket.io/?EIO=4&transport=polling&t=5yh8whrh&sid=E4NudcS8c8Pl2GIdAAAU HTTP/1.1" 200 -
+2025-03-20 15:13:25,185 - INFO - Client tfi9JKfi7_7hnh4pAAAN disconnected
+2025-03-20 15:13:25,185 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:25] "GET /socket.io/?EIO=4&transport=websocket&sid=hFkjLqCuVbWUeYAkAAAM HTTP/1.1" 200 -
+2025-03-20 15:13:25,185 - INFO - Client WOdfmiC-ofcBiHBRAAAJ disconnected
+2025-03-20 15:13:25,185 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:25] "GET /socket.io/?EIO=4&transport=websocket&sid=Pji8GV1Bi9tf5RURAAAI HTTP/1.1" 200 -
+2025-03-20 15:13:25,185 - INFO - Client 9FI3g-lDS225ou7bAAAR disconnected
+2025-03-20 15:13:25,187 - INFO - Client VF77cpy602JjHfdyAAAV disconnected
+2025-03-20 15:13:25,187 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:25] "GET /socket.io/?EIO=4&transport=websocket&sid=QTRoeRZxSOtdoapEAAAQ HTTP/1.1" 200 -
+2025-03-20 15:13:25,187 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:25] "GET /socket.io/?EIO=4&transport=websocket&sid=E4NudcS8c8Pl2GIdAAAU HTTP/1.1" 200 -
+2025-03-20 15:13:25,236 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:25] "GET /socket.io/?EIO=4&transport=polling&t=5ykvmi2v HTTP/1.1" 200 -
+2025-03-20 15:13:25,556 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:25] "POST /socket.io/?EIO=4&transport=polling&t=5ykvub48&sid=ppHNfqmiMtEO6yvUAAAW HTTP/1.1" 200 -
+2025-03-20 15:13:25,556 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:25] "GET /socket.io/?EIO=4&transport=polling&t=5ykvuscm&sid=ppHNfqmiMtEO6yvUAAAW HTTP/1.1" 200 -
+2025-03-20 15:13:25,810 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:25] "GET /socket.io/?EIO=4&transport=polling&t=5yl4s2ru&sid=ppHNfqmiMtEO6yvUAAAW HTTP/1.1" 200 -
+2025-03-20 15:13:27,869 - INFO - Client B3Kr-0LG1VVxm4ThAAAT disconnected
+2025-03-20 15:13:27,869 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:27] "GET /socket.io/?EIO=4&transport=websocket&sid=abjZw7Fzptn2jM5aAAAS HTTP/1.1" 200 -
+2025-03-20 15:13:27,909 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:27] "GET /socket.io/?EIO=4&transport=polling&t=5ymxwvtq HTTP/1.1" 200 -
+2025-03-20 15:13:28,223 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:28] "POST /socket.io/?EIO=4&transport=polling&t=5ymy4qip&sid=1Y12GY9yH5Cgg70BAAAY HTTP/1.1" 200 -
+2025-03-20 15:13:28,224 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:28] "GET /socket.io/?EIO=4&transport=polling&t=5ymy5w42&sid=1Y12GY9yH5Cgg70BAAAY HTTP/1.1" 200 -
+2025-03-20 15:13:43,266 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:43] "GET /socket.io/?EIO=4&transport=polling&t=5yysskf0 HTTP/1.1" 200 -
+2025-03-20 15:13:43,586 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:43] "POST /socket.io/?EIO=4&transport=polling&t=5yyszio5&sid=JZBT1NejCDgg1QzJAAAa HTTP/1.1" 200 -
+2025-03-20 15:13:43,586 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:43] "GET /socket.io/?EIO=4&transport=polling&t=5yyszmk6&sid=JZBT1NejCDgg1QzJAAAa HTTP/1.1" 200 -
+2025-03-20 15:13:43,854 - INFO - 127.0.0.1 - - [20/Mar/2025 15:13:43] "GET /socket.io/?EIO=4&transport=polling&t=5yz1u6mq&sid=JZBT1NejCDgg1QzJAAAa HTTP/1.1" 200 -
+2025-03-20 15:13:48,186 - INFO - Agent registered: cv8eXAloPjZCo05PAAAb
+2025-03-20 15:13:54,299 - INFO - User HOoy3BEszOsEkZyrAAAZ connected with Agent cv8eXAloPjZCo05PAAAb
+2025-03-20 15:13:56,371 - INFO - Agent registered: cv8eXAloPjZCo05PAAAb
+2025-03-20 15:14:00,459 - INFO - HOoy3BEszOsEkZyrAAAZ sent message to cv8eXAloPjZCo05PAAAb: hi
+2025-03-20 15:14:35,851 - INFO - 127.0.0.1 - - [20/Mar/2025 15:14:35] "GET /socket.io/?EIO=4&transport=polling&t=6034j553 HTTP/1.1" 200 -
+2025-03-20 15:14:36,104 - INFO - 127.0.0.1 - - [20/Mar/2025 15:14:36] "POST /socket.io/?EIO=4&transport=polling&t=603da54q&sid=CVE9cLRj3NbyY5NhAAAc HTTP/1.1" 200 -
+2025-03-20 15:14:36,169 - INFO - 127.0.0.1 - - [20/Mar/2025 15:14:36] "GET /socket.io/?EIO=4&transport=polling&t=603dc47y&sid=CVE9cLRj3NbyY5NhAAAc HTTP/1.1" 200 -
+2025-03-20 15:14:43,510 - INFO - 127.0.0.1 - - [20/Mar/2025 15:14:43] "GET /socket.io/?EIO=4&transport=polling&t=6099y5tq HTTP/1.1" 200 -
+2025-03-20 15:14:43,816 - INFO - 127.0.0.1 - - [20/Mar/2025 15:14:43] "POST /socket.io/?EIO=4&transport=polling&t=609a0wev&sid=yKEkVeHQ0R6FO0KzAAAe HTTP/1.1" 200 -
+2025-03-20 15:14:43,818 - INFO - 127.0.0.1 - - [20/Mar/2025 15:14:43] "GET /socket.io/?EIO=4&transport=polling&t=609a0xgf&sid=yKEkVeHQ0R6FO0KzAAAe HTTP/1.1" 200 -
+2025-03-20 15:14:47,969 - ERROR - disconnect handler error
+Traceback (most recent call last):
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\socketio\server.py", line 617, in _trigger_event
+    return handler(*args)
+           ^^^^^^^^^^^^^^
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\flask_socketio\__init__.py", line 292, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\flask_socketio\__init__.py", line 835, in _handle_event
+    ret = handler(*args)
+          ^^^^^^^^^^^^^^
+TypeError: handle_disconnect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\engineio\server.py", line 450, in run_handler
+    return self.handlers[event](*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\socketio\server.py", line 671, in _handle_eio_disconnect
+    self._handle_disconnect(eio_sid, n, reason)
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\socketio\server.py", line 568, in _handle_disconnect
+    self._trigger_event('disconnect', namespace, sid,
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args[:-1])
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\flask_socketio\__init__.py", line 292, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\flask_socketio\__init__.py", line 835, in _handle_event
+    ret = handler(*args)
+          ^^^^^^^^^^^^^^
+  File "D:\Projects\RealChatPython\index.py", line 77, in handle_disconnect
+    agent_users[agent_id].remove(sid)
+ValueError: list.remove(x): x not in list
+2025-03-20 15:14:47,981 - INFO - 127.0.0.1 - - [20/Mar/2025 15:14:47] "GET /socket.io/?EIO=4&transport=websocket&sid=1Y12GY9yH5Cgg70BAAAY HTTP/1.1" 200 -
+2025-03-20 15:14:48,000 - INFO - 127.0.0.1 - - [20/Mar/2025 15:14:48] "GET /socket.io/?EIO=4&transport=polling&t=60cqnm8u HTTP/1.1" 200 -
+2025-03-20 15:14:48,306 - INFO - 127.0.0.1 - - [20/Mar/2025 15:14:48] "POST /socket.io/?EIO=4&transport=polling&t=60cqqv0g&sid=PWLzw6NH7whOeNgZAAAg HTTP/1.1" 200 -
+2025-03-20 15:14:48,311 - INFO - 127.0.0.1 - - [20/Mar/2025 15:14:48] "GET /socket.io/?EIO=4&transport=polling&t=60cqr94h&sid=PWLzw6NH7whOeNgZAAAg HTTP/1.1" 200 -
+2025-03-20 15:17:19,968 - INFO - 127.0.0.1 - - [20/Mar/2025 15:17:19] "GET /socket.io/?EIO=4&transport=polling&t=63lrl3b3 HTTP/1.1" 200 -
+2025-03-20 15:17:19,984 - INFO - 127.0.0.1 - - [20/Mar/2025 15:17:19] "GET /socket.io/?EIO=4&transport=polling&t=63lryt8v HTTP/1.1" 200 -
+2025-03-20 15:17:19,984 - INFO - 127.0.0.1 - - [20/Mar/2025 15:17:19] "GET /socket.io/?EIO=4&transport=polling&t=63ls888g HTTP/1.1" 200 -
+2025-03-20 15:17:20,234 - INFO - 127.0.0.1 - - [20/Mar/2025 15:17:20] "POST /socket.io/?EIO=4&transport=polling&t=63m05yui&sid=fEnGN0zP55jZ6ra6AAAi HTTP/1.1" 200 -
+2025-03-20 15:17:20,284 - INFO - 127.0.0.1 - - [20/Mar/2025 15:17:20] "GET /socket.io/?EIO=4&transport=polling&t=63m073vr&sid=fEnGN0zP55jZ6ra6AAAi HTTP/1.1" 200 -
+2025-03-20 15:17:20,285 - INFO - 127.0.0.1 - - [20/Mar/2025 15:17:20] "POST /socket.io/?EIO=4&transport=polling&t=63m0jijg&sid=wt7iw_iLUQvuMSbfAAAj HTTP/1.1" 200 -
+2025-03-20 15:17:20,299 - INFO - 127.0.0.1 - - [20/Mar/2025 15:17:20] "GET /socket.io/?EIO=4&transport=polling&t=63m0k7lm&sid=wt7iw_iLUQvuMSbfAAAj HTTP/1.1" 200 -
+2025-03-20 15:17:20,299 - INFO - 127.0.0.1 - - [20/Mar/2025 15:17:20] "POST /socket.io/?EIO=4&transport=polling&t=63m0pepr&sid=NdVVB5G2FB7JSsHoAAAk HTTP/1.1" 200 -
+2025-03-20 15:17:20,299 - INFO - 127.0.0.1 - - [20/Mar/2025 15:17:20] "GET /socket.io/?EIO=4&transport=polling&t=63m0ru60&sid=NdVVB5G2FB7JSsHoAAAk HTTP/1.1" 200 -
+2025-03-20 15:17:20,620 - INFO - 127.0.0.1 - - [20/Mar/2025 15:17:20] "GET /socket.io/?EIO=4&transport=polling&t=63m9khfq&sid=NdVVB5G2FB7JSsHoAAAk HTTP/1.1" 200 -
+2025-03-20 15:18:20,549 - INFO - 127.0.0.1 - - [20/Mar/2025 15:18:20] "GET /socket.io/?EIO=4&transport=polling&t=64wqscd6 HTTP/1.1" 200 -
+2025-03-20 15:18:20,853 - INFO - 127.0.0.1 - - [20/Mar/2025 15:18:20] "POST /socket.io/?EIO=4&transport=polling&t=64wqvhzd&sid=FSW-uzDavcFC_-QqAAAo HTTP/1.1" 200 -
+2025-03-20 15:18:20,853 - INFO - 127.0.0.1 - - [20/Mar/2025 15:18:20] "GET /socket.io/?EIO=4&transport=polling&t=64wqwsc6&sid=FSW-uzDavcFC_-QqAAAo HTTP/1.1" 200 -
+2025-03-20 15:18:21,119 - INFO - 127.0.0.1 - - [20/Mar/2025 15:18:21] "GET /socket.io/?EIO=4&transport=polling&t=64wzivdh&sid=FSW-uzDavcFC_-QqAAAo HTTP/1.1" 200 -
+2025-03-20 15:18:52,460 - INFO - Agent registered: ghDAC7NY7cl5iegRAAAp
+2025-03-20 15:18:54,946 - INFO - User acURtUdE3oKU-T0cAAAh connected with Agent cv8eXAloPjZCo05PAAAb
+2025-03-20 15:19:05,908 - INFO - acURtUdE3oKU-T0cAAAh sent message to cv8eXAloPjZCo05PAAAb: hi
+2025-03-20 15:19:17,840 - INFO - Client acURtUdE3oKU-T0cAAAh disconnected
+2025-03-20 15:19:17,840 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:17] "GET /socket.io/?EIO=4&transport=websocket&sid=PWLzw6NH7whOeNgZAAAg HTTP/1.1" 200 -
+2025-03-20 15:19:17,860 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:17] "GET /socket.io/?EIO=4&transport=polling&t=664yr6jl HTTP/1.1" 200 -
+2025-03-20 15:19:18,171 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:18] "POST /socket.io/?EIO=4&transport=polling&t=664yuc57&sid=c0_xpN0SwhsYzFhqAAAq HTTP/1.1" 200 -
+2025-03-20 15:19:18,171 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:18] "GET /socket.io/?EIO=4&transport=polling&t=664yupej&sid=c0_xpN0SwhsYzFhqAAAq HTTP/1.1" 200 -
+2025-03-20 15:19:18,433 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:18] "GET /socket.io/?EIO=4&transport=polling&t=6657qvvk&sid=c0_xpN0SwhsYzFhqAAAq HTTP/1.1" 200 -
+2025-03-20 15:19:24,294 - INFO - Client cv8eXAloPjZCo05PAAAb disconnected
+2025-03-20 15:19:24,295 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "GET /socket.io/?EIO=4&transport=websocket&sid=JZBT1NejCDgg1QzJAAAa HTTP/1.1" 200 -
+2025-03-20 15:19:24,299 - INFO - Client ghDAC7NY7cl5iegRAAAp disconnected
+2025-03-20 15:19:24,299 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "GET /socket.io/?EIO=4&transport=websocket&sid=FSW-uzDavcFC_-QqAAAo HTTP/1.1" 200 -
+2025-03-20 15:19:24,299 - INFO - Client XO39Ne0bfVWFYTqiAAAm disconnected
+2025-03-20 15:19:24,301 - INFO - Client OfdrHkw918fX69XrAAAX disconnected
+2025-03-20 15:19:24,303 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "GET /socket.io/?EIO=4&transport=websocket&sid=wt7iw_iLUQvuMSbfAAAj HTTP/1.1" 200 -
+2025-03-20 15:19:24,304 - INFO - Client q-OWBluCQvRwxWVsAAAd disconnected
+2025-03-20 15:19:24,304 - INFO - Client FOeiuGS9GmoXcMK6AAAl disconnected
+2025-03-20 15:19:24,305 - INFO - Client g1d38QPduPpq52g4AAAf disconnected
+2025-03-20 15:19:24,306 - INFO - Client kcv6sEjhKss0LXEGAAAn disconnected
+2025-03-20 15:19:24,307 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "GET /socket.io/?EIO=4&transport=websocket&sid=ppHNfqmiMtEO6yvUAAAW HTTP/1.1" 200 -
+2025-03-20 15:19:24,308 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "GET /socket.io/?EIO=4&transport=websocket&sid=CVE9cLRj3NbyY5NhAAAc HTTP/1.1" 200 -
+2025-03-20 15:19:24,309 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "GET /socket.io/?EIO=4&transport=websocket&sid=fEnGN0zP55jZ6ra6AAAi HTTP/1.1" 200 -
+2025-03-20 15:19:24,310 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "GET /socket.io/?EIO=4&transport=websocket&sid=yKEkVeHQ0R6FO0KzAAAe HTTP/1.1" 200 -
+2025-03-20 15:19:24,310 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "GET /socket.io/?EIO=4&transport=websocket&sid=NdVVB5G2FB7JSsHoAAAk HTTP/1.1" 200 -
+2025-03-20 15:19:24,351 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "GET /socket.io/?EIO=4&transport=polling&t=669z14tb HTTP/1.1" 200 -
+2025-03-20 15:19:24,669 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "POST /socket.io/?EIO=4&transport=polling&t=669zb36a&sid=nPmgayd8sJAP4FDYAAAs HTTP/1.1" 200 -
+2025-03-20 15:19:24,672 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "GET /socket.io/?EIO=4&transport=polling&t=669zcsst&sid=nPmgayd8sJAP4FDYAAAs HTTP/1.1" 200 -
+2025-03-20 15:19:24,935 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:24] "GET /socket.io/?EIO=4&transport=polling&t=66a873nw&sid=nPmgayd8sJAP4FDYAAAs HTTP/1.1" 200 -
+2025-03-20 15:19:48,820 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:48] "GET /socket.io/?EIO=4&transport=polling&t=66suqd4l HTTP/1.1" 200 -
+2025-03-20 15:19:49,136 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:49] "POST /socket.io/?EIO=4&transport=polling&t=66suuazq&sid=Kbv2s4YrKkwOHZHSAAAu HTTP/1.1" 200 -
+2025-03-20 15:19:49,136 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:49] "GET /socket.io/?EIO=4&transport=polling&t=66suwyfo&sid=Kbv2s4YrKkwOHZHSAAAu HTTP/1.1" 200 -
+2025-03-20 15:19:49,404 - INFO - 127.0.0.1 - - [20/Mar/2025 15:19:49] "GET /socket.io/?EIO=4&transport=polling&t=66t3whp7&sid=Kbv2s4YrKkwOHZHSAAAu HTTP/1.1" 200 -
+2025-03-20 15:19:52,708 - INFO - Agent registered: h0ktfNIPW27NSB-2AAAv
+2025-03-20 15:20:13,368 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-03-20 15:20:13,384 - INFO -  * Restarting with stat
+2025-03-20 15:20:13,584 - INFO - Flask SocketIO server starting...
+2025-03-20 15:20:13,584 - WARNING -  * Debugger is active!
+2025-03-20 15:20:13,584 - INFO -  * Debugger PIN: 474-035-000
+2025-03-20 15:20:14,922 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:14] "GET /socket.io/?EIO=4&transport=polling&t=67cqyfys HTTP/1.1" 200 -
+2025-03-20 15:20:14,923 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:14] "GET /socket.io/?EIO=4&transport=polling&t=67cqyvza HTTP/1.1" 200 -
+2025-03-20 15:20:15,186 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:15] "POST /socket.io/?EIO=4&transport=polling&t=67d004mx&sid=G_uz-57yn3Bxta9UAAAB HTTP/1.1" 200 -
+2025-03-20 15:20:15,233 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:15] "POST /socket.io/?EIO=4&transport=polling&t=67d000yt&sid=NSPC1Tsz75ch8ZxFAAAA HTTP/1.1" 200 -
+2025-03-20 15:20:15,233 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:15] "GET /socket.io/?EIO=4&transport=polling&t=67d01x76&sid=G_uz-57yn3Bxta9UAAAB HTTP/1.1" 200 -
+2025-03-20 15:20:15,233 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:15] "GET /socket.io/?EIO=4&transport=polling&t=67d04el4&sid=NSPC1Tsz75ch8ZxFAAAA HTTP/1.1" 200 -
+2025-03-20 15:20:15,249 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:15] "GET /socket.io/?EIO=4&transport=polling&t=67d8yvkr&sid=NSPC1Tsz75ch8ZxFAAAA HTTP/1.1" 200 -
+2025-03-20 15:20:15,901 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:15] "GET /socket.io/?EIO=4&transport=polling&t=67dinxtg HTTP/1.1" 200 -
+2025-03-20 15:20:16,168 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:16] "POST /socket.io/?EIO=4&transport=polling&t=67dr5nn9&sid=-wHqXWDZpvbjRgl5AAAE HTTP/1.1" 200 -
+2025-03-20 15:20:16,199 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:16] "GET /socket.io/?EIO=4&transport=polling&t=67dr6p34&sid=-wHqXWDZpvbjRgl5AAAE HTTP/1.1" 200 -
+2025-03-20 15:20:16,215 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:16] "GET /socket.io/?EIO=4&transport=polling&t=67dzsdt4&sid=-wHqXWDZpvbjRgl5AAAE HTTP/1.1" 200 -
+2025-03-20 15:20:27,774 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-03-20 15:20:27,794 - INFO -  * Restarting with stat
+2025-03-20 15:20:27,985 - INFO - Flask SocketIO server starting...
+2025-03-20 15:20:27,987 - WARNING -  * Debugger is active!
+2025-03-20 15:20:27,988 - INFO -  * Debugger PIN: 474-035-000
+2025-03-20 15:20:28,918 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:28] "GET /socket.io/?EIO=4&transport=polling&t=67njtmre HTTP/1.1" 200 -
+2025-03-20 15:20:28,918 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:28] "GET /socket.io/?EIO=4&transport=polling&t=67njtclm HTTP/1.1" 200 -
+2025-03-20 15:20:29,003 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-03-20 15:20:29,035 - INFO -  * Restarting with stat
+2025-03-20 15:20:29,217 - INFO - Flask SocketIO server starting...
+2025-03-20 15:20:29,234 - WARNING -  * Debugger is active!
+2025-03-20 15:20:29,234 - INFO -  * Debugger PIN: 474-035-000
+2025-03-20 15:20:29,239 - ERROR - Invalid session j6UZxgox6Hg8TpqgAAAA (further occurrences of this error will be logged with level INFO)
+2025-03-20 15:20:29,239 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:29] "[31m[1mPOST /socket.io/?EIO=4&transport=polling&t=67nssz3o&sid=j6UZxgox6Hg8TpqgAAAA HTTP/1.1[0m" 400 -
+2025-03-20 15:20:29,239 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:29] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=67nstdos&sid=j6UZxgox6Hg8TpqgAAAA HTTP/1.1[0m" 400 -
+2025-03-20 15:20:29,239 - ERROR - Invalid session tnLxHx_VoAywz3UsAAAB (further occurrences of this error will be logged with level INFO)
+2025-03-20 15:20:29,239 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:29] "[31m[1mGET /socket.io/?EIO=4&transport=websocket&sid=j6UZxgox6Hg8TpqgAAAA HTTP/1.1[0m" 400 -
+2025-03-20 15:20:29,239 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:29] "[31m[1mPOST /socket.io/?EIO=4&transport=polling&t=67nss29d&sid=tnLxHx_VoAywz3UsAAAB HTTP/1.1[0m" 400 -
+2025-03-20 15:20:29,239 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:29] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=67nsu604&sid=tnLxHx_VoAywz3UsAAAB HTTP/1.1[0m" 400 -
+2025-03-20 15:20:29,251 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:29] "[31m[1mPOST /socket.io/?EIO=4&transport=polling&t=67o1u6je&sid=j6UZxgox6Hg8TpqgAAAA HTTP/1.1[0m" 400 -
+2025-03-20 15:20:29,568 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:29] "[31m[1mPOST /socket.io/?EIO=4&transport=polling&t=67o1w4x0&sid=tnLxHx_VoAywz3UsAAAB HTTP/1.1[0m" 400 -
+2025-03-20 15:20:29,921 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:29] "GET /socket.io/?EIO=4&transport=polling&t=67obk9ie HTTP/1.1" 200 -
+2025-03-20 15:20:30,168 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:30] "POST /socket.io/?EIO=4&transport=polling&t=67okmms5&sid=I1CQU70XJB-bRYsuAAAA HTTP/1.1" 200 -
+2025-03-20 15:20:30,235 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:30] "GET /socket.io/?EIO=4&transport=polling&t=67okpwac&sid=I1CQU70XJB-bRYsuAAAA HTTP/1.1" 200 -
+2025-03-20 15:20:30,235 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:30] "GET /socket.io/?EIO=4&transport=polling&t=67otfp21&sid=I1CQU70XJB-bRYsuAAAA HTTP/1.1" 200 -
+2025-03-20 15:20:30,919 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:30] "GET /socket.io/?EIO=4&transport=polling&t=67p3d6zy HTTP/1.1" 200 -
+2025-03-20 15:20:31,175 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:31] "POST /socket.io/?EIO=4&transport=polling&t=67pcbk4o&sid=W0j7OtUyhoY20uxMAAAC HTTP/1.1" 200 -
+2025-03-20 15:20:31,228 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:31] "GET /socket.io/?EIO=4&transport=polling&t=67pcdf83&sid=W0j7OtUyhoY20uxMAAAC HTTP/1.1" 200 -
+2025-03-20 15:20:31,231 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:31] "GET /socket.io/?EIO=4&transport=polling&t=67pkv0pd&sid=W0j7OtUyhoY20uxMAAAC HTTP/1.1" 200 -
+2025-03-20 15:20:31,907 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:31] "GET /socket.io/?EIO=4&transport=polling&t=67pv5i6b HTTP/1.1" 200 -
+2025-03-20 15:20:32,164 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:32] "POST /socket.io/?EIO=4&transport=polling&t=67q3pqcd&sid=Az_BW3zaEK_IcJxFAAAE HTTP/1.1" 200 -
+2025-03-20 15:20:32,220 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:32] "GET /socket.io/?EIO=4&transport=polling&t=67q3rlmd&sid=Az_BW3zaEK_IcJxFAAAE HTTP/1.1" 200 -
+2025-03-20 15:20:32,226 - INFO - 127.0.0.1 - - [20/Mar/2025 15:20:32] "GET /socket.io/?EIO=4&transport=polling&t=67qcfckr&sid=Az_BW3zaEK_IcJxFAAAE HTTP/1.1" 200 -
+2025-03-20 16:15:10,338 - INFO - Flask SocketIO server starting...
+2025-03-20 16:15:10,350 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.244.2.132:5001
+2025-03-20 16:15:10,350 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-20 16:15:10,350 - INFO -  * Restarting with stat
+2025-03-20 16:15:10,535 - INFO - Flask SocketIO server starting...
+2025-03-20 16:15:10,535 - WARNING -  * Debugger is active!
+2025-03-20 16:15:10,543 - INFO -  * Debugger PIN: 474-035-000
+2025-03-20 16:15:15,900 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:15] "GET /socket.io/?EIO=4&transport=polling&t=863ta0aj HTTP/1.1" 200 -
+2025-03-20 16:15:15,900 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:15] "GET /socket.io/?EIO=4&transport=polling&t=863ta95a HTTP/1.1" 200 -
+2025-03-20 16:15:15,900 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:15] "GET /socket.io/?EIO=4&transport=polling&t=863tb4tj HTTP/1.1" 200 -
+2025-03-20 16:15:16,155 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:16] "POST /socket.io/?EIO=4&transport=polling&t=8641tyyx&sid=BkGwuh2X9rQm-wNWAAAB HTTP/1.1" 200 -
+2025-03-20 16:15:16,218 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:16] "POST /socket.io/?EIO=4&transport=polling&t=8641u36p&sid=sLGS8k5r-Aeu8T5PAAAA HTTP/1.1" 200 -
+2025-03-20 16:15:16,218 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:16] "GET /socket.io/?EIO=4&transport=polling&t=8641ucag&sid=BkGwuh2X9rQm-wNWAAAB HTTP/1.1" 200 -
+2025-03-20 16:15:16,218 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:16] "POST /socket.io/?EIO=4&transport=polling&t=8641wel4&sid=_wU5j8fNVsUUllvJAAAC HTTP/1.1" 200 -
+2025-03-20 16:15:16,218 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:16] "GET /socket.io/?EIO=4&transport=polling&t=8641wcul&sid=_wU5j8fNVsUUllvJAAAC HTTP/1.1" 200 -
+2025-03-20 16:15:16,218 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:16] "GET /socket.io/?EIO=4&transport=polling&t=8641xl7r&sid=sLGS8k5r-Aeu8T5PAAAA HTTP/1.1" 200 -
+2025-03-20 16:15:16,536 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:16] "GET /socket.io/?EIO=4&transport=polling&t=864aq20n&sid=sLGS8k5r-Aeu8T5PAAAA HTTP/1.1" 200 -
+2025-03-20 16:15:16,536 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:16] "GET /socket.io/?EIO=4&transport=polling&t=864ar6a3&sid=_wU5j8fNVsUUllvJAAAC HTTP/1.1" 200 -
+2025-03-20 16:15:21,769 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:21] "GET /socket.io/?EIO=4&transport=websocket&sid=_wU5j8fNVsUUllvJAAAC HTTP/1.1" 200 -
+2025-03-20 16:15:21,769 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:21] "GET /socket.io/?EIO=4&transport=websocket&sid=BkGwuh2X9rQm-wNWAAAB HTTP/1.1" 200 -
+2025-03-20 16:15:21,828 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:21] "GET /socket.io/?EIO=4&transport=polling&t=868m8nuv HTTP/1.1" 200 -
+2025-03-20 16:15:22,145 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:22] "POST /socket.io/?EIO=4&transport=polling&t=868mlaol&sid=sM84FiwXZon1pLqlAAAG HTTP/1.1" 200 -
+2025-03-20 16:15:22,152 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:22] "GET /socket.io/?EIO=4&transport=polling&t=868mmxxb&sid=sM84FiwXZon1pLqlAAAG HTTP/1.1" 200 -
+2025-03-20 16:15:32,231 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:32] "GET /socket.io/?EIO=4&transport=websocket&sid=sLGS8k5r-Aeu8T5PAAAA HTTP/1.1" 200 -
+2025-03-20 16:15:32,251 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:32] "GET /socket.io/?EIO=4&transport=polling&t=86gnv2cy HTTP/1.1" 200 -
+2025-03-20 16:15:32,558 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:32] "POST /socket.io/?EIO=4&transport=polling&t=86gnxa61&sid=wb9NpnenMadqCCniAAAI HTTP/1.1" 200 -
+2025-03-20 16:15:32,558 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:32] "GET /socket.io/?EIO=4&transport=polling&t=86gnxgpp&sid=wb9NpnenMadqCCniAAAI HTTP/1.1" 200 -
+2025-03-20 16:15:34,685 - INFO - Agent registered: oqPD0irNEXcTfQnmAAAH
+2025-03-20 16:15:41,165 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:41] "GET /socket.io/?EIO=4&transport=websocket&sid=sM84FiwXZon1pLqlAAAG HTTP/1.1" 200 -
+2025-03-20 16:15:41,201 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:41] "GET /socket.io/?EIO=4&transport=polling&t=86nkgzaf HTTP/1.1" 200 -
+2025-03-20 16:15:41,510 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:41] "POST /socket.io/?EIO=4&transport=polling&t=86nkohhf&sid=o5LzOP56Y6fboHNxAAAK HTTP/1.1" 200 -
+2025-03-20 16:15:41,510 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:41] "GET /socket.io/?EIO=4&transport=polling&t=86nkpcoz&sid=o5LzOP56Y6fboHNxAAAK HTTP/1.1" 200 -
+2025-03-20 16:15:44,164 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:44] "GET /socket.io/?EIO=4&transport=websocket&sid=o5LzOP56Y6fboHNxAAAK HTTP/1.1" 200 -
+2025-03-20 16:15:44,201 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:44] "GET /socket.io/?EIO=4&transport=polling&t=86pvrl1e HTTP/1.1" 200 -
+2025-03-20 16:15:44,535 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:44] "GET /socket.io/?EIO=4&transport=polling&t=86q51w1z HTTP/1.1" 200 -
+2025-03-20 16:15:44,544 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:44] "POST /socket.io/?EIO=4&transport=polling&t=86q5a7vq&sid=YC_w--KbkpDR0Rj0AAAN HTTP/1.1" 200 -
+2025-03-20 16:15:44,676 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:44] "GET /socket.io/?EIO=4&transport=polling&t=86q5bekx&sid=YC_w--KbkpDR0Rj0AAAN HTTP/1.1" 200 -
+2025-03-20 16:15:44,855 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:44] "GET /socket.io/?EIO=4&transport=polling&t=86qdya0x HTTP/1.1" 200 -
+2025-03-20 16:15:44,991 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:44] "POST /socket.io/?EIO=4&transport=polling&t=86qe76xe&sid=EW6DOxF_-oYxpJUnAAAP HTTP/1.1" 200 -
+2025-03-20 16:15:45,163 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:45] "GET /socket.io/?EIO=4&transport=polling&t=86qe8una&sid=EW6DOxF_-oYxpJUnAAAP HTTP/1.1" 200 -
+2025-03-20 16:15:45,163 - INFO - 127.0.0.1 - - [20/Mar/2025 16:15:45] "GET /socket.io/?EIO=4&transport=polling&t=86qmqmrn&sid=EW6DOxF_-oYxpJUnAAAP HTTP/1.1" 200 -
+2025-03-20 16:15:46,773 - INFO - Agent registered: W-4CEuJOIBMPmowfAAAQ
+2025-03-20 16:16:00,910 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:00] "GET /socket.io/?EIO=4&transport=polling&t=872jhes8 HTTP/1.1" 200 -
+2025-03-20 16:16:01,173 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:01] "POST /socket.io/?EIO=4&transport=polling&t=872s2kl0&sid=p0eS1tSYGUnEAkyiAAAR HTTP/1.1" 200 -
+2025-03-20 16:16:01,224 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:01] "GET /socket.io/?EIO=4&transport=polling&t=872s38vx&sid=p0eS1tSYGUnEAkyiAAAR HTTP/1.1" 200 -
+2025-03-20 16:16:01,232 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:01] "GET /socket.io/?EIO=4&transport=polling&t=8730wtch&sid=p0eS1tSYGUnEAkyiAAAR HTTP/1.1" 200 -
+2025-03-20 16:16:10,133 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:10] "GET /socket.io/?EIO=4&transport=websocket&sid=EW6DOxF_-oYxpJUnAAAP HTTP/1.1" 200 -
+2025-03-20 16:16:10,469 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:10] "GET /socket.io/?EIO=4&transport=polling&t=879x47iu HTTP/1.1" 200 -
+2025-03-20 16:16:10,739 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:10] "POST /socket.io/?EIO=4&transport=polling&t=87a5o8fw&sid=WF127SKzkiPs9x1tAAAT HTTP/1.1" 200 -
+2025-03-20 16:16:10,784 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:10] "GET /socket.io/?EIO=4&transport=polling&t=87a5pft3&sid=WF127SKzkiPs9x1tAAAT HTTP/1.1" 200 -
+2025-03-20 16:16:14,916 - INFO - Agent registered: f2QlC-bICb9YWCmeAAAU
+2025-03-20 16:16:41,335 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:41] "GET /socket.io/?EIO=4&transport=polling&t=87xytity HTTP/1.1" 200 -
+2025-03-20 16:16:41,644 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:41] "POST /socket.io/?EIO=4&transport=polling&t=87xyy1ul&sid=y7AXYNYWSCMw9C2eAAAV HTTP/1.1" 200 -
+2025-03-20 16:16:41,646 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:41] "GET /socket.io/?EIO=4&transport=polling&t=87xz0a21&sid=y7AXYNYWSCMw9C2eAAAV HTTP/1.1" 200 -
+2025-03-20 16:16:48,124 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:48] "GET /socket.io/?EIO=4&transport=polling&t=8837szmb HTTP/1.1" 200 -
+2025-03-20 16:16:48,459 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:48] "POST /socket.io/?EIO=4&transport=polling&t=8837zs7o&sid=xM_cfGbwi6WuKfQyAAAX HTTP/1.1" 200 -
+2025-03-20 16:16:48,459 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:48] "GET /socket.io/?EIO=4&transport=polling&t=88381ofo&sid=xM_cfGbwi6WuKfQyAAAX HTTP/1.1" 200 -
+2025-03-20 16:16:51,804 - INFO - Agent registered: Txywb_ouTLGPgZ6QAAAW
+2025-03-20 16:16:54,897 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:54] "GET /socket.io/?EIO=4&transport=websocket&sid=p0eS1tSYGUnEAkyiAAAR HTTP/1.1" 200 -
+2025-03-20 16:16:54,897 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:54] "GET /socket.io/?EIO=4&transport=websocket&sid=wb9NpnenMadqCCniAAAI HTTP/1.1" 200 -
+2025-03-20 16:16:54,897 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:54] "GET /socket.io/?EIO=4&transport=websocket&sid=xM_cfGbwi6WuKfQyAAAX HTTP/1.1" 200 -
+2025-03-20 16:16:54,950 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:54] "GET /socket.io/?EIO=4&transport=polling&t=888h1gtr HTTP/1.1" 200 -
+2025-03-20 16:16:55,259 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:55] "POST /socket.io/?EIO=4&transport=polling&t=888h9ux3&sid=PbvLCL_FiNSKBYXSAAAZ HTTP/1.1" 200 -
+2025-03-20 16:16:55,259 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:55] "GET /socket.io/?EIO=4&transport=polling&t=888ha1b1&sid=PbvLCL_FiNSKBYXSAAAZ HTTP/1.1" 200 -
+2025-03-20 16:16:55,481 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:55] "GET /socket.io/?EIO=4&transport=websocket&sid=PbvLCL_FiNSKBYXSAAAZ HTTP/1.1" 200 -
+2025-03-20 16:16:55,525 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:55] "GET /socket.io/?EIO=4&transport=polling&t=888w75qa HTTP/1.1" 200 -
+2025-03-20 16:16:55,803 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:55] "GET /socket.io/?EIO=4&transport=polling&t=8894sw3k HTTP/1.1" 200 -
+2025-03-20 16:16:55,841 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:55] "POST /socket.io/?EIO=4&transport=polling&t=8894uoui&sid=LquvvbiKFnFJ17ziAAAc HTTP/1.1" 200 -
+2025-03-20 16:16:55,842 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:55] "GET /socket.io/?EIO=4&transport=polling&t=8894u2wm&sid=LquvvbiKFnFJ17ziAAAc HTTP/1.1" 200 -
+2025-03-20 16:16:56,110 - INFO - 127.0.0.1 - - [20/Mar/2025 16:16:56] "GET /socket.io/?EIO=4&transport=polling&t=8895vg22&sid=LquvvbiKFnFJ17ziAAAc HTTP/1.1" 200 -
+2025-03-20 16:17:04,725 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:04] "GET /socket.io/?EIO=4&transport=polling&t=88g0jxwl HTTP/1.1" 200 -
+2025-03-20 16:17:04,731 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:04] "POST /socket.io/?EIO=4&transport=polling&t=88g0pr2d&sid=lJyI5w-O5UTRb7o7AAAe HTTP/1.1" 200 -
+2025-03-20 16:17:04,731 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:04] "GET /socket.io/?EIO=4&transport=polling&t=88g0sv9w&sid=lJyI5w-O5UTRb7o7AAAe HTTP/1.1" 200 -
+2025-03-20 16:17:05,056 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:05] "GET /socket.io/?EIO=4&transport=polling&t=88g0yx5u&sid=lJyI5w-O5UTRb7o7AAAe HTTP/1.1" 200 -
+2025-03-20 16:17:14,443 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:14] "GET /socket.io/?EIO=4&transport=polling&t=88nip3x2 HTTP/1.1" 200 -
+2025-03-20 16:17:14,759 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:14] "POST /socket.io/?EIO=4&transport=polling&t=88nirzgn&sid=9eIXscqoxteHC4nmAAAg HTTP/1.1" 200 -
+2025-03-20 16:17:14,762 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:14] "GET /socket.io/?EIO=4&transport=polling&t=88nirle2&sid=9eIXscqoxteHC4nmAAAg HTTP/1.1" 200 -
+2025-03-20 16:17:43,553 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-03-20 16:17:43,578 - INFO -  * Restarting with stat
+2025-03-20 16:17:43,793 - INFO - Flask SocketIO server starting...
+2025-03-20 16:17:43,795 - WARNING -  * Debugger is active!
+2025-03-20 16:17:43,797 - INFO -  * Debugger PIN: 474-035-000
+2025-03-20 16:17:44,908 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:44] "GET /socket.io/?EIO=4&transport=polling&t=89arye2v HTTP/1.1" 200 -
+2025-03-20 16:17:44,908 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:44] "GET /socket.io/?EIO=4&transport=polling&t=89arwk0u HTTP/1.1" 200 -
+2025-03-20 16:17:44,908 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:44] "GET /socket.io/?EIO=4&transport=polling&t=89arwasi HTTP/1.1" 200 -
+2025-03-20 16:17:45,175 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:45] "POST /socket.io/?EIO=4&transport=polling&t=89b0zbqz&sid=aVaoqnLUao2FCGJ3AAAB HTTP/1.1" 200 -
+2025-03-20 16:17:45,225 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:45] "GET /socket.io/?EIO=4&transport=polling&t=89b101oj&sid=aVaoqnLUao2FCGJ3AAAB HTTP/1.1" 200 -
+2025-03-20 16:17:45,225 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:45] "POST /socket.io/?EIO=4&transport=polling&t=89b12xxy&sid=6Y0D2r3j7ooADGO_AAAC HTTP/1.1" 200 -
+2025-03-20 16:17:45,225 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:45] "GET /socket.io/?EIO=4&transport=polling&t=89b12ire&sid=6Y0D2r3j7ooADGO_AAAC HTTP/1.1" 200 -
+2025-03-20 16:17:45,225 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:45] "POST /socket.io/?EIO=4&transport=polling&t=89b12t7y&sid=q3Mglb1fL4i7UO28AAAA HTTP/1.1" 200 -
+2025-03-20 16:17:45,225 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:45] "GET /socket.io/?EIO=4&transport=polling&t=89b13094&sid=q3Mglb1fL4i7UO28AAAA HTTP/1.1" 200 -
+2025-03-20 16:17:45,541 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:45] "GET /socket.io/?EIO=4&transport=polling&t=89b9x9c2&sid=6Y0D2r3j7ooADGO_AAAC HTTP/1.1" 200 -
+2025-03-20 16:17:45,541 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:45] "GET /socket.io/?EIO=4&transport=polling&t=89b9xw5k&sid=q3Mglb1fL4i7UO28AAAA HTTP/1.1" 200 -
+2025-03-20 16:17:45,805 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:45] "GET /socket.io/?EIO=4&transport=polling&t=89bjq1ey HTTP/1.1" 200 -
+2025-03-20 16:17:45,904 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:45] "POST /socket.io/?EIO=4&transport=polling&t=89bprwat&sid=Ze8nYPl3nyxh8mCkAAAG HTTP/1.1" 200 -
+2025-03-20 16:17:45,904 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:45] "GET /socket.io/?EIO=4&transport=polling&t=89bjqiha HTTP/1.1" 200 -
+2025-03-20 16:17:46,112 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:46] "GET /socket.io/?EIO=4&transport=polling&t=89bpre1h&sid=Ze8nYPl3nyxh8mCkAAAG HTTP/1.1" 200 -
+2025-03-20 16:17:46,112 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:46] "POST /socket.io/?EIO=4&transport=polling&t=89bsos8l&sid=Jjp4b1_vRMeKZS2gAAAH HTTP/1.1" 200 -
+2025-03-20 16:17:46,224 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:46] "GET /socket.io/?EIO=4&transport=polling&t=89bsr34k&sid=Jjp4b1_vRMeKZS2gAAAH HTTP/1.1" 200 -
+2025-03-20 16:17:46,230 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:46] "GET /socket.io/?EIO=4&transport=polling&t=89c1hl07&sid=Jjp4b1_vRMeKZS2gAAAH HTTP/1.1" 200 -
+2025-03-20 16:17:47,286 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:47] "GET /socket.io/?EIO=4&transport=websocket&sid=6Y0D2r3j7ooADGO_AAAC HTTP/1.1" 200 -
+2025-03-20 16:17:47,286 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:47] "GET /socket.io/?EIO=4&transport=websocket&sid=aVaoqnLUao2FCGJ3AAAB HTTP/1.1" 200 -
+2025-03-20 16:17:47,287 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:47] "GET /socket.io/?EIO=4&transport=websocket&sid=Ze8nYPl3nyxh8mCkAAAG HTTP/1.1" 200 -
+2025-03-20 16:17:47,644 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:47] "GET /socket.io/?EIO=4&transport=polling&t=89cwawiv HTTP/1.1" 200 -
+2025-03-20 16:17:47,898 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:47] "POST /socket.io/?EIO=4&transport=polling&t=89d4w367&sid=I_ia3Noz37-3G9g1AAAK HTTP/1.1" 200 -
+2025-03-20 16:17:47,952 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:47] "GET /socket.io/?EIO=4&transport=polling&t=89d4xx2n&sid=I_ia3Noz37-3G9g1AAAK HTTP/1.1" 200 -
+2025-03-20 16:17:47,957 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:47] "GET /socket.io/?EIO=4&transport=polling&t=89ddgffq&sid=I_ia3Noz37-3G9g1AAAK HTTP/1.1" 200 -
+2025-03-20 16:17:49,400 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:49] "GET /socket.io/?EIO=4&transport=websocket&sid=Jjp4b1_vRMeKZS2gAAAH HTTP/1.1" 200 -
+2025-03-20 16:17:49,400 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:49] "GET /socket.io/?EIO=4&transport=websocket&sid=q3Mglb1fL4i7UO28AAAA HTTP/1.1" 200 -
+2025-03-20 16:17:49,751 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:49] "GET /socket.io/?EIO=4&transport=polling&t=89eiyax8 HTTP/1.1" 200 -
+2025-03-20 16:17:50,005 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:50] "POST /socket.io/?EIO=4&transport=polling&t=89erkuo5&sid=ot0anLdn6wbxGwpzAAAM HTTP/1.1" 200 -
+2025-03-20 16:17:50,065 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:50] "GET /socket.io/?EIO=4&transport=polling&t=89erk39q&sid=ot0anLdn6wbxGwpzAAAM HTTP/1.1" 200 -
+2025-03-20 16:17:50,065 - INFO - 127.0.0.1 - - [20/Mar/2025 16:17:50] "GET /socket.io/?EIO=4&transport=polling&t=89f05i9k&sid=ot0anLdn6wbxGwpzAAAM HTTP/1.1" 200 -
+2025-03-20 16:17:50,668 - INFO - Agent azRY0zx-KhoCZNUaAAAN is now online.
+2025-03-20 16:17:53,620 - INFO - User WFd1sKxKpa_kFUt7AAAL connected with Agent azRY0zx-KhoCZNUaAAAN
+2025-03-20 16:17:57,546 - INFO - WFd1sKxKpa_kFUt7AAAL sent message to azRY0zx-KhoCZNUaAAAN: hi
+2025-03-20 16:18:01,043 - INFO - azRY0zx-KhoCZNUaAAAN sent message to WFd1sKxKpa_kFUt7AAAL: hi
+2025-03-20 16:18:08,426 - INFO - Chat ended between WFd1sKxKpa_kFUt7AAAL and azRY0zx-KhoCZNUaAAAN.
+2025-03-20 16:18:08,426 - INFO - 127.0.0.1 - - [20/Mar/2025 16:18:08] "GET /socket.io/?EIO=4&transport=websocket&sid=I_ia3Noz37-3G9g1AAAK HTTP/1.1" 200 -
